@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm SERAP KEREM</h1>
 <h3 align="center">A passionate game developer from Turkey with a focus on Unity and C#.</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+<img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
-
+<p>
 
 - 🔭 I’m currently working on [Third Person Shooter](Third Person Shooter)
 
@@ -20,7 +20,7 @@
 - 📫 How to reach me **serapkerem19@gmail.com**
 
 - Fun Fact **⚡ I find myself quite funny!**
-
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/serap-kerem-unity-game-developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/serap-kerem-unity-game-developer" height="30" width="40" /></a>
