@@ -21,7 +21,7 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       # Checks out the repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v3  # Güncellenmiş sürüm
 
       # Generates the snake  
       - uses: Platane/snk@master
@@ -37,7 +37,7 @@ jobs:
 
       # Push the changes to the repository
       - name: Push changes
-        uses: ad-m/github-push-action@v0.6.0
+        uses: ad-m/github-push-action@v0.7.0  # Güncellenmiş sürüm
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: master
