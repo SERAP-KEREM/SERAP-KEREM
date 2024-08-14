@@ -19,7 +19,6 @@
 
 - 📫 How to reach me **serapkerem19@gmail.com**
 
-- ⚡ Fun Fact **I find myself quite funny!**
 </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
