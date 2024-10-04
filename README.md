@@ -5,24 +5,24 @@
 
 <p>
 
-- 🔭 I’m currently working on [Third Person Shooter](https://github.com/SERAP-KEREM/ThirdPersonShooter)
+- 🔭 I’m currently working on Multiplayer game development projects using Unity and Netcode, as well as creating engaging 2D/3D experiences. [Multiplayer Third Person Shooter](https://github.com/SERAP-KEREM/ThirdPerson.git)
 
-- 🌱 I’m currently learning **Advanced Unity techniques, new game frameworks, and AI development** through various courses and tutorials.
+- 🌱 I’m currently learning Photon for multiplayer networking and how to integrate Firebase into my game projects for features like authentication and data storage.
 
-- I’m looking to collaborate on **Innovative game design concepts and multiplayer game features** like [Bullet Storm](https://github.com/SERAP-KEREM/BulletStorm)
+- I’m looking to collaborate on Photon for multiplayer networking and how to integrate Firebase into my game projects for features like authentication and data storage.
 
-- 🤝 I’m looking for help with **Optimizing game performance and implementing complex AI behaviors** in [House of Horrors](https://github.com/SERAP-KEREM/HouseOfHorrors)
+- 🤝 I’m looking for help with Optimizing game performance and implementing complex AI behaviors in
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://drive.google.com/drive/folders/1X90bGv_g9Kp3ekHJjpeSagX6iuDtgYIv?usp=sharing)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://serap-kerem.github.io/webpages/)
 
-- 💬 Ask me about **Unity development, C# programming, and game mechanics.**
+- 💬 Ask me about Unity, C#, multiplayer game development, or integrating Firebase and Photon into games.
 
 - 📫 How to reach me **serapkerem19@gmail.com**
 
 </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/serap-kerem-unity-game-developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="serap-kerem-linkedin" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/serapkerem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="serap-kerem-linkedin" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
