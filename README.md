@@ -18,6 +18,8 @@
 - 💬 Ask me about Unity, C#, multiplayer game development, or integrating Firebase and Photon into games.
 
 - 📫 How to reach me **serapkerem19@gmail.com**
+</a><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -66,12 +68,16 @@
   </a> 
 </p>
 
+</a><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=serap-kerem&show_icons=true&locale=en&layout=compact" alt="serap-kerem" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=serap-kerem&show_icons=true&locale=en" alt="serap-kerem" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=serap-kerem&" alt="serap-kerem" /></p>
+
+</a><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SERAP-KEREM/SERAP-KEREM/output/github-contribution-grid-snake-dark.svg">
