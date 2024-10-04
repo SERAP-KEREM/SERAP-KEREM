@@ -19,36 +19,53 @@
 
 - 📫 How to reach me **serapkerem19@gmail.com**
 
-</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/serapkerem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="serap-kerem-linkedin" height="30" width="40" /></a>
+  
+ <a href="mailto:serapkerem19@gmail.com" target="blank">
+    <img src='https://raw.githubusercontent.com/SERAP-KEREM/SERAP-KEREM/refs/heads/main/Logo/GmailLogo.png' alt='gmail' height='40'>
+  </a>
+  
+  <a href="https://serap-kerem.github.io/webpages/" target="blank">
+    <img src='https://raw.githubusercontent.com/SERAP-KEREM/SERAP-KEREM/refs/heads/main/Logo/PortfolioLogo.png' alt='portfolio' height='40'> <!-- Portfolio Logosunu ekledik -->
+  </a>
+
+   <a href="https://serapkerem.software/" target="blank">
+    <img src='https://raw.githubusercontent.com/SERAP-KEREM/SERAP-KEREM/refs/heads/main/Logo/BlogLogo.png' alt='website' height='40'> <!-- Blog Logosunu ekledik -->
+  </a>
+  
+  <a href="https://www.linkedin.com/in/serapkerem/" target="blank">
+    <img src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg' alt='serap-kerem-linkedin' height='40'>
+  </a>
+ 
+  <a href="https://discord.com/channels/serapkerem" target="blank">
+    <img src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg' alt='discord' height='40'>
+  </a>
+ 
 </p>
+
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-</a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-</a> 
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
-</a> 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-</a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-</a> 
-<a href="https://unity.com/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> 
-</a> 
-<a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> 
-</a> 
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
+  </a> 
+  <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> 
+  </a> 
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.photonengine.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/SERAP-KEREM/SERAP-KEREM/refs/heads/main/Logo/PhotonPunLogo.png" alt="photon" width="40" height="40"/> 
+  </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
+  </a> 
 </p>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=serap-kerem&show_icons=true&locale=en&layout=compact" alt="serap-kerem" /></p>
 
