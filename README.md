@@ -72,11 +72,19 @@
 
 ![](/profile-3d-contrib/profile-night-rainbow.svg)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=serap-kerem&show_icons=true&locale=en&layout=compact" alt="serap-kerem" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=serap-kerem&show_icons=true&locale=en" alt="serap-kerem" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=serap-kerem&" alt="serap-kerem" /></p>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25" alt="Stats GIF"> <b>My Stats</b>
+
+<p align="center">
+  <img height="150" width="150" src="https://cdn.cbd.int/anzhiyu-assets@1.0.11/image/common/github-info/left-wing.png" alt="Left Image">
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=SERAP-KEREM&theme=dark&background=000000" alt="Streak Stats"/>
+  <img height="150" width="150" src="https://cdn.cbd.int/anzhiyu-assets@1.0.11/image/common/github-info/right-wing.png" alt="Right Image">
+</p>
+
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hanzelkaraagac&theme=dark&background=000000)](https://git.io/streak-stats) -->
 
 </a><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
@@ -89,7 +97,17 @@
 </a><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 
+
+
 ![](https://raw.githubusercontent.com/zouariste/corona-runner/gh-pages/assets/corona-runner.gif)
 
 
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+
+
+
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/SERAP-KEREM)
+
+
