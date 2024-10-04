@@ -25,5 +25,3 @@ jobs:
           git add README.md
           git commit -m "Update README with Corono Runner animation"
           git push
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
