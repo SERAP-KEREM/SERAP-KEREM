@@ -80,9 +80,11 @@
 
 <p align="center">
   <img height="150" width="150" src="https://cdn.cbd.int/anzhiyu-assets@1.0.11/image/common/github-info/left-wing.png" alt="Left Image">
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=SERAP-KEREM&theme=dark&background=000000" alt="Streak Stats"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=SERAP-KEREM&theme=dark&background=000000" alt="Streak Stats"/>
+
   <img height="150" width="150" src="https://cdn.cbd.int/anzhiyu-assets@1.0.11/image/common/github-info/right-wing.png" alt="Right Image">
 </p>
+
 
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hanzelkaraagac&theme=dark&background=000000)](https://git.io/streak-stats) -->
 
