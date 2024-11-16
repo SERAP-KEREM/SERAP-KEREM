@@ -7,7 +7,7 @@
 
 <p>
 
-- 🔭 I’m currently working on Multiplayer game development projects using Unity and Netcode, as well as creating engaging 2D/3D experiences. [Multiplayer Third Person Shooter](https://github.com/SERAP-KEREM/ThirdPerson.git)
+- 🔭 I’m currently working on Multiplayer game development projects using Unity and Netcode, as well as creating engaging 2D/3D experiences.
 
 - 🌱 I’m currently learning Photon for multiplayer networking and how to integrate Firebase into my game projects for features like authentication and data storage.
 
