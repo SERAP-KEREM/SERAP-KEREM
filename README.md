@@ -6,22 +6,61 @@
 </p>
 
 <p>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+  
+## About Me
 
-- 🔭 I’m currently working on Multiplayer game development projects using Unity and Netcode, as well as creating engaging 2D/3D experiences.
+Hello, my name is **Serap Kerem**, and I hold a Bachelor's degree in **Computer Engineering** with over 3 years of experience in **game development**. I specialize in crafting innovative, engaging, and high-performance game experiences using **C#** and **Unity**.
 
-- 🌱 I’m currently learning Photon for multiplayer networking and how to integrate Firebase into my game projects for features like authentication and data storage.
+Throughout my career, I have built a solid foundation in **game mechanics design**, **performance optimization**, and integrating complex systems within Unity. I have developed **multiplayer games**, optimized game performance for smooth user experiences, and created user-centric solutions for a wide variety of projects.
 
-- I’m looking to collaborate on Photon for multiplayer networking and how to integrate Firebase into my game projects for features like authentication and data storage.
+My technical skill set includes working with **Photon**, **Unity Netcode**  and integrating **advertising systems** such as **AdMob** to increase project profitability and user engagement.
 
-- 🤝 I’m looking for help with Optimizing game performance and implementing complex AI behaviors in
+I started my journey as a **Computer Engineering Intern**, focusing on game mechanics and Unity development, and later transitioned into a **Game Developer** role. Over the years, I’ve refined my expertise in **game system design** and **performance optimization**. I am always eager to learn and stay updated with the latest industry trends to continuously improve my skills and provide better solutions in my projects.
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://serap-kerem.github.io/webpages/)
 
-- 💬 Ask me about Unity, C#, multiplayer game development, or integrating Firebase and Photon into games.
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-- 📫 How to reach me **serapkerem19@gmail.com**
-</a><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
+## Projects
+
+
+## SerapKeremGameTools Features
+
+SerapKeremGameTools is a Unity package that offers a variety of tools to optimize game development and ensure smoother performance. Whether you're building a small indie project or a large-scale game, these systems will help you manage and improve critical game functions.
+
+### Key Features:
+
+🎮 **MonoSingleton & NonMonoSingleton**  
+Simplify class management using the Singleton design pattern and manage global instances across scenes.
+
+🎶 **AudioManager**  
+Easily manage game sounds with advanced pooling and flexible control settings to optimize your audio experience.
+
+💥 **ParticleManager**  
+Maximize particle effect performance with memory-efficient pooling.
+
+⏰ **TimeManager**  
+Gain full control over in-game time, pause/resume, and handle countdowns.
+
+🎉 **PopUpManager**  
+Manage in-game pop-ups (texts, icons) with customizable animations and memory-efficient pooling.
+
+🖱️ **InputManager**  
+Manage mouse input and interactions with objects using raycasting in a simple, efficient way.
+
+🔄 **ObjectPool**  
+Efficiently reuse game objects to optimize performance and reduce memory usage.
+
+⏸️ **PauseManager**  
+Easily implement and manage game pausing functionality, controlling pause states and resuming gameplay with customizable behaviors.
+
+💾 **Save/Load System**  
+Save and load game progress with efficient and flexible system integration. It allows you to store and retrieve player data, ensuring continuity in gameplay across sessions.
+ 
+[View Project on GitHub](https://github.com/serapkerem/SerapKeremGameTools)  
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
