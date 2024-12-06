@@ -44,7 +44,7 @@ Maximize particle effect performance with memory-efficient pooling.
 Gain full control over in-game time, pause/resume, and handle countdowns.
 
 🎉 **PopUpManager**  
-Manage in-game pop-ups (texts, icons) with customizable animations and memory-efficient pooling.
+Manage pop-up texts and icons efficiently with object pooling for memory optimization.
 
 🖱️ **InputManager**  
 Manage mouse input and interactions with objects using raycasting in a simple, efficient way.
