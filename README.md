@@ -21,303 +21,111 @@ I started my journey as a **Computer Engineering Intern**, focusing on game mech
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-## Projects
 
-<h2 align="center">🧵 Thread Roller</h2>
 
+<h2 left="center">PROJECTS</h2>
+
+<h2 align="center">🛠️ SerapKeremGameKit — Unity Game Boilerplate</h2>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SERAP-KEREM/SERAP-KEREM/refs/heads/main/Images/Thread%20Roller.png" alt="Thread Roller" width="420"/>
+  <b>Engine:</b> Unity (URP) &nbsp;|&nbsp; <b>Language:</b> C#
+</p>
+<p><b>Summary:</b> Lightweight, modular starter for fast prototyping to production.</p>
+<p><b>Highlights:</b> Audio/Particle Pooling • UIPanel (DOTween) • Haptics • Input • Wallet</p>
+<p>
+  <a href="https://github.com/SERAP-KEREM/SerapKeremGameKit" target="_blank" rel="noopener noreferrer">
+    GitHub Repository
+  </a>
 </p>
 
+
+<h2 align="center">🧵 Thread Roller</h2>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SERAP-KEREM/SERAP-KEREM/refs/heads/main/Images/Thread%20Roller.png" alt="Thread Roller" width="420" loading="lazy" />
+</p>
 <p align="center">
   <b>Genre:</b> Match-3 / Puzzle &nbsp;|&nbsp; <b>Engine:</b> Unity &nbsp;|&nbsp; <b>Language:</b> C#
 </p>
-
----
-
-### 🪡 Overview  
-A satisfying match-3 puzzle built around a *holder-based* system and a smooth shelf → holder → paint loop.  
-Focused on polished feedback, seamless transitions, and short hyper-casual pacing.
-
-### 🎮 Gameplay  
-Move items from shelves to holders.  
-When three identical colors meet, they paint the shape beneath.  
-Clear all shelves and paint every shape to complete the level.
-
-### ⚙️ Tech Stack  
-Unity • C# • DOTween • ScriptableObject Architecture • TriInspector  
-
-### 🧠 My Role  
-- Implemented the complete holder-based matching and feedback system.  
-- Designed the color and prefab management pipeline using ScriptableObjects.  
-- Tuned pacing and difficulty for hyper-casual short loops.  
-- Integrated SFX, VFX, and haptics for responsive player feedback.  
-
-### 🌐 Link  
-👉 [**Thread Roller on App Store**](https://apps.apple.com/us/app/thread-roller/id6751907263)
-
----
+<p><b>Summary:</b> Smooth shelf → holder → paint loop with short, satisfying sessions.</p>
+<p><b>Tech:</b> Unity • C# • DOTween • ScriptableObject • TriInspector</p>
+<p><a href="https://apps.apple.com/us/app/thread-roller/id6751907263" target="_blank" rel="noopener noreferrer">App Store</a></p>
 
 <h2 align="center">🪡 Stitch N Loop</h2>
-
 <p align="center">
-  <a href="https://serap-kerem.github.io/webpages/portfolio.html#">
-    <img src="https://raw.githubusercontent.com/SERAP-KEREM/SERAP-KEREM/refs/heads/main/Images/StitchNLoop.png" alt="Stitch N Loop" width="420"/>
+  <a href="https://serap-kerem.github.io/webpages/portfolio.html#" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/SERAP-KEREM/SERAP-KEREM/refs/heads/main/Images/StitchNLoop.png" alt="Stitch N Loop" width="420" loading="lazy" />
   </a>
 </p>
-
 <p align="center">
   <b>Genre:</b> Puzzle / Simulation &nbsp;|&nbsp; <b>Engine:</b> Unity &nbsp;|&nbsp; <b>Language:</b> C#
 </p>
-
----
-
-### 🪡 Overview  
-A tactile stitching puzzle blending **grid-based tissue painting**, **rope dynamics**, and a **conveyor–holder system**.  
-Focused on smooth motion, fluid feedback, and performance-optimized interactions.
-
-### 🎮 Gameplay  
-Wind the rope, attach it to holders, and paint the tissue grid beneath.  
-Every interaction — from rope motion to texture blending — responds dynamically for a seamless, satisfying flow.
-
-### ⚙️ Tech Stack  
-Unity • C# • DOTween • ScriptableObject • TriInspector • Texture2D  
-Spline/Rope System • MaterialPropertyBlock • Haptics • VFX/SFX  
-
-### 🧠 My Role  
-- Designed and developed the **entire gameplay architecture and system flow**.  
-- Implemented **grid painting** using `Texture2D` with base/normal map blending.  
-- Built the **reel flow**: winding → holder reservation → unwinding → painting.  
-- Created a **spline-based rope system** with throw, wave, and collapse behaviors.  
-- Optimized **performance and feedback** via MaterialPropertyBlock, DOTween, and haptics.  
-- Structured **level and color data** through ScriptableObjects with clean TriInspector UI.
-
-### 🧩 Challenges & Solutions  
-- **Artifacts at cell boundaries:** Resolved with precise UV clamping and `GridCalculator`.  
-- **Rope wave instability:** Fixed using dynamic mid-point baselines and sine modulation.  
-- **Uneven paint distribution:** Solved via color-density-based cell assignment.
-
-### 🌐 Link  
-👉 [**Stitch N Loop on App Store**](https://apps.apple.com/us/app/stich-n-loop/id6748954594)
-
----
+<p><b>Summary:</b> Tactile stitching with grid painting, rope spline, and holder flow.</p>
+<p><b>Tech:</b> Unity • C# • DOTween • ScriptableObject • TriInspector • Texture2D</p>
+<p><a href="https://apps.apple.com/us/app/stich-n-loop/id6748954594" target="_blank" rel="noopener noreferrer">App Store</a></p>
 
 <h2 align="center">🔫 Third-Person Shooter Multiplayer</h2>
-
 <p align="center">
-  <a href="https://serap-kerem.github.io/webpages/portfolio.html#">
-    <img src="https://raw.githubusercontent.com/SERAP-KEREM/SERAP-KEREM/refs/heads/main/Images/Third%20Person%20Shooter%20Multiplayer.png" alt="Third Person Shooter Multiplayer" width="420"/>
+  <a href="https://serap-kerem.github.io/webpages/portfolio.html#" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/SERAP-KEREM/SERAP-KEREM/refs/heads/main/Images/Third%20Person%20Shooter%20Multiplayer.png" alt="Third Person Shooter Multiplayer" width="420" loading="lazy" />
   </a>
 </p>
-
 <p align="center">
   <b>Genre:</b> Third-Person Shooter / Multiplayer &nbsp;|&nbsp; <b>Engine:</b> Unity &nbsp;|&nbsp; <b>Language:</b> C#
 </p>
-
----
-
-### 🪡 Overview  
-An action-packed third-person multiplayer shooter built with **Unity Netcode**.  
-Designed for real-time PvP battles with tactical depth, immersive gameplay, and adaptive AI interactions.
-
-### 🎮 Gameplay  
-- Engage in real-time multiplayer battles with smooth networking.  
-- Utilize a strategic third-person camera to gain tactical advantages.  
-- Switch weapons dynamically to adapt to various combat scenarios.  
-- Manage limited ammo and health packs strategically.  
-- Search and collect loot to maintain advantage in combat.  
-- Select characters with diverse abilities while ensuring balanced gameplay.  
-- Encounter AI-driven NPCs for extra challenge and unpredictability.
-
-### ⚙️ Tech Stack  
-Unity • C# • Unity Netcode  
-
-### 🌐 Links  
-- [Portfolio](https://serap-kerem.github.io/webpages/portfolio.html#third-person-shooter)  
-- [GitHub Repository](https://github.com/SERAP-KEREM/MultiplayerThirdPersonShooter)
-
----
+<p><b>Summary:</b> Real-time PvP with Unity Netcode; weapon swap, loot, basic AI.</p>
+<p><b>Tech:</b> Unity • C# • Unity Netcode</p>
+<p><a href="https://serap-kerem.github.io/webpages/portfolio.html#third-person-shooter" target="_blank" rel="noopener noreferrer">Portfolio</a> &nbsp;|&nbsp; <a href="https://github.com/SERAP-KEREM/MultiplayerThirdPersonShooter" target="_blank" rel="noopener noreferrer">GitHub</a></p>
 
 <h2 align="center">🚀 Stickman Tank Rush</h2>
-
 <p align="center">
-  <a href="https://serap-kerem.github.io/webpages/portfolio.html#">
-    <img src="https://raw.githubusercontent.com/SERAP-KEREM/SERAP-KEREM/refs/heads/main/Images/Stickman%20Tank%20Rush.png" alt="Stickman Tank Rush" width="420"/>
+  <a href="https://serap-kerem.github.io/webpages/portfolio.html#" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/SERAP-KEREM/SERAP-KEREM/refs/heads/main/Images/Stickman%20Tank%20Rush.png" alt="Stickman Tank Rush" width="420" loading="lazy" />
   </a>
 </p>
-
 <p align="center">
   <b>Genre:</b> Hyper-Casual / Puzzle &nbsp;|&nbsp; <b>Engine:</b> Unity &nbsp;|&nbsp; <b>Language:</b> C#
 </p>
-
----
-
-### 🪡 Overview  
-A fast-paced hyper-casual puzzle game where color-matching and strategic movement drive gameplay.  
-Designed for short-loop engagement with minimalist visuals and fluid animations.
-
-### 🎮 Gameplay  
-- Guide stickmen to reach tanks of the same color using **color-matching mechanics**.  
-- Navigate dynamically generated **grids** with procedural layouts.  
-- Avoid filling holder areas; reaching capacity triggers **game over**.  
-- Progress through levels designed via **ScriptableObjects** and **Array2DGrid**.  
-- Enjoy **smooth animations** powered by DOTween for satisfying transitions.  
-- Optimized for **mobile devices** with intuitive controls and vibrant visuals.
-
-### ⚙️ Tech Stack  
-Unity • C# • DOTween • Array2D • ColorType • GridPathfinder • TriInspector • SerapkeremGameTools  
-
-### 🌐 Links  
-- [Portfolio](https://serap-kerem.github.io/webpages/portfolio.html#stickman-tank-rush)  
-- [GitHub Repository](https://github.com/SERAP-KEREM/StickmanTankRush)
-
----
+<p><b>Summary:</b> Color-matching path puzzle with procedural grids and fluid animations.</p>
+<p><b>Tech:</b> Unity • C# • DOTween • Array2D • GridPathfinder • TriInspector</p>
+<p><a href="https://serap-kerem.github.io/webpages/portfolio.html#stickman-tank-rush" target="_blank" rel="noopener noreferrer">Portfolio</a> &nbsp;|&nbsp; <a href="https://github.com/SERAP-KEREM/StickmanTankRush" target="_blank" rel="noopener noreferrer">GitHub</a></p>
 
 <h2 align="center">🟢 Tiny Merge</h2>
-
 <p align="center">
-  <a href="https://serap-kerem.github.io/webpages/portfolio.html#">
-    <img src="https://raw.githubusercontent.com/SERAP-KEREM/SERAP-KEREM/refs/heads/main/Images/Tiny%20Merge.png" alt="Tiny Merge" width="420"/>
+  <a href="https://serap-kerem.github.io/webpages/portfolio.html#" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/SERAP-KEREM/SERAP-KEREM/refs/heads/main/Images/Tiny%20Merge.png" alt="Tiny Merge" width="420" loading="lazy" />
   </a>
 </p>
-
 <p align="center">
   <b>Genre:</b> Puzzle / Match-3 &nbsp;|&nbsp; <b>Engine:</b> Unity &nbsp;|&nbsp; <b>Language:</b> C#
 </p>
-
----
-
-### 🪡 Overview  
-A fast-paced match-3 puzzle adventure where players collect target objects, strategically manage tiles, and use powerful joker abilities.  
-First deep dive into **Zenject** for dependency management in Unity.
-
-### 🎮 Gameplay  
-- Collect target objects to complete levels.  
-- Match three of the same type to clear them from the board.  
-- Beat the level within a **time limit**.  
-- Avoid filling the board; otherwise **game over**.  
-- Use **Joker Abilities** for strategic advantage:  
-  - **Destroy Triple Item:** Remove three identical items instantly.  
-  - **Item Shaker:** Apply random forces to shake the board.  
-  - **Recycle Item:** Reuse the last collected item.  
-  - **Freeze Time:** Temporarily stop the clock.
-
-### ⚙️ Tech Stack  
-Unity • C# • DOTween • TriInspector • Zenject  
-
-### 🌐 Links  
-- [Portfolio](https://serap-kerem.github.io/webpages/portfolio.html#tiny-merge)  
-- [GitHub Repository](https://github.com/SERAP-KEREM/TinyMerge)
-
----
+<p><b>Summary:</b> Target collection with time pressure and impactful joker abilities.</p>
+<p><b>Tech:</b> Unity • C# • DOTween • TriInspector • Zenject</p>
+<p><a href="https://serap-kerem.github.io/webpages/portfolio.html#tiny-merge" target="_blank" rel="noopener noreferrer">Portfolio</a> &nbsp;|&nbsp; <a href="https://github.com/SERAP-KEREM/TinyMerge" target="_blank" rel="noopener noreferrer">GitHub</a></p>
 
 <h2 align="center">🔗 Color Chains</h2>
-
 <p align="center">
-  <a href="https://serap-kerem.github.io/webpages/portfolio.html#">
-    <img src="https://raw.githubusercontent.com/SERAP-KEREM/SERAP-KEREM/refs/heads/main/Images/Color%20Chains.png" alt="Color Chains" width="420"/>
+  <a href="https://serap-kerem.github.io/webpages/portfolio.html#" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/SERAP-KEREM/SERAP-KEREM/refs/heads/main/Images/Color%20Chains.png" alt="Color Chains" width="420" loading="lazy" />
   </a>
 </p>
-
 <p align="center">
   <b>Genre:</b> Puzzle / Physics-Based &nbsp;|&nbsp; <b>Engine:</b> Unity &nbsp;|&nbsp; <b>Language:</b> C#
 </p>
-
----
-
-### 🪡 Overview  
-A physics-driven logic puzzle where players place color-coded keys into their matching sockets while respecting chain constraints.  
-Stretching or mismanaging chains can break them, and limited moves require careful strategy.
-
-### 🎮 Gameplay  
-- Place keys into corresponding color-coded sockets.  
-- Chains physically constrain key movement; overstretching causes **breaks**.  
-- Solve each puzzle within a **limited number of moves**.  
-- Drag-and-drop controls provide intuitive interaction.  
-- Enjoy smooth animations and realistic physics for satisfying feedback.
-
-### ⚙️ Tech Stack  
-Unity • C# • DOTween • TriInspector • SerapkeremGameTools • Physics & Hinge Joints  
-
-### 🌐 Links  
-- [Portfolio](https://serap-kerem.github.io/webpages/portfolio.html#color-chains)  
-- [GitHub Repository](https://github.com/SERAP-KEREM/ColorChains)
-
----
+<p><b>Summary:</b> Color key–socket logic with chain constraints and limited moves.</p>
+<p><b>Tech:</b> Unity • C# • DOTween • TriInspector • Physics/Hinge</p>
+<p><a href="https://serap-kerem.github.io/webpages/portfolio.html#color-chains" target="_blank" rel="noopener noreferrer">Portfolio</a> &nbsp;|&nbsp; <a href="https://github.com/SERAP-KEREM/ColorChains" target="_blank" rel="noopener noreferrer">GitHub</a></p>
 
 <h2 align="center">🌲 Forest Hole Adventure</h2>
-
 <p align="center">
-  <a href="https://serap-kerem.github.io/webpages/portfolio.html#">
-    <img src="https://raw.githubusercontent.com/SERAP-KEREM/SERAP-KEREM/refs/heads/main/Images/Forest%20Hole%20Adventure.png" alt="Forest Hole Adventure" width="420"/>
+  <a href="https://serap-kerem.github.io/webpages/portfolio.html#" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/SERAP-KEREM/SERAP-KEREM/refs/heads/main/Images/Forest%20Hole%20Adventure.png" alt="Forest Hole Adventure" width="420" loading="lazy" />
   </a>
 </p>
-
 <p align="center">
   <b>Genre:</b> Action / Puzzle &nbsp;|&nbsp; <b>Engine:</b> Unity &nbsp;|&nbsp; <b>Language:</b> C#
 </p>
-
----
-
-### 🪡 Overview  
-Control a mysterious hole in a lush forest, absorbing objects and animals to grow bigger.  
-Reach the target score before time runs out to complete each level, with smooth movement, dynamic AI, and immersive visuals.
-
-### 🎮 Gameplay  
-- Absorb objects and animals to expand the hole; larger objects become available as you grow.  
-- Navigate fluidly using joystick/keyboard, powered by **NavMesh**.  
-- Forest animals have **dynamic AI**, reacting and fleeing from the hole.  
-- Large objects turn **transparent** when the hole moves beneath, enhancing visibility.  
-- Customize levels via **ScriptableObjects**: target scores, time limits, spawn locations.  
-- Cinematic camera via **Cinemachine** follows the hole for immersive gameplay.
-
-### ⚙️ Tech Stack  
-Unity • C# • DOTween • ColorType • TriInspector • SerapkeremGameTools • Cinemachine • NavMesh  
-
-### 🌐 Links  
-- [Portfolio](https://serap-kerem.github.io/webpages/portfolio.html#forest-hole-adventure)  
-- [GitHub Repository](https://github.com/SERAP-KEREM/ForestHoleAdventure)
-
-<h2 align="center">🛠️ SerapKeremGameKit — Unity Game Boilerplate</h2>
-
-<p align="center">
-  <b>Genre:</b> Template / Boilerplate &nbsp;|&nbsp; <b>Engine:</b> Unity (URP supported) &nbsp;|&nbsp; <b>Language:</b> C#
-</p>
-
----
-
-### 🪡 Overview  
-A lightweight yet powerful Unity boilerplate/template for rapid prototyping and scalable production.  
-Ships with clean architecture, ready-to-use managers, pooled audio/particles, UI helpers, haptics, input handling, and editor tooling. Designed for readability, modularity, and scalability.
-
-### ⚙️ Features
-
-**Core Systems**  
-- 🎵 Audio System: Key-based SFX/music, optional 3D, pooling, PlayerPrefs.  
-- 💨 Particle System: Pooled particles with auto-recycle.  
-- 📱 Haptics: Cross-platform feedback API.  
-- 🖥️ UI Core: Animated UIPanel base (DOTween fades), audio/haptic hooks.  
-- 🧠 Input Handler: Centralized input with lock/unlock and PlayerInputSO.  
-
-**Utilities & Architecture**  
-- 💰 Economy: Secure CurrencyWallet (PlayerPrefs + signature).  
-- ⚙️ Managers: Lightweight MonoSingleton<T> pattern.  
-- 🪶 Utilities: Colored logger, save debounce, preference keys.  
-- 🧩 UI Utilities: Button.BindOnClick(owner, action) with auto-unbind.  
-- 🧰 Prefabs: Ready-to-drop manager/UI prefabs under Resources/*.  
-
-**Usage Examples**  
-- **Audio:** `AudioManager.Instance.Play("ui_click");`  
-- **Particles:** `ParticleManager.Instance.PlayParticle("coin_pop", transform.position);`  
-- **Haptics:** `HapticManager.Instance.Play(HapticType.Light);`  
-- **UI Panels:** Extend `UIPanel` and call `Show()/Hide()`  
-- **Wallet:** `CurrencyWallet.Instance.Add(100);`  
-
-**Dependencies (optional but recommended)**  
-TextMeshPro, TriInspector, Toolbar Extender, DOTween, Toony Colors Pro, Epic Toon FX, GUI Blue Sky, Unity URP  
-
-### 🌐 Links  
-- [GitHub Repository](https://github.com/SERAP-KEREM/SerapKeremGameKit)
+<p><b>Summary:</b> Grow the hole by absorbing objects; fluid NavMesh movement and clear goals.</p>
+<p><b>Tech:</b> Unity • C# • DOTween • TriInspector • Cinemachine • NavMesh</p>
+<p><a href="https://serap-kerem.github.io/webpages/portfolio.html#forest-hole-adventure" target="_blank" rel="noopener noreferrer">Portfolio</a> &nbsp;|&nbsp; <a href="https://github.com/SERAP-KEREM/ForestHoleAdventure" target="_blank" rel="noopener noreferrer">GitHub</a></p>
 
 
 
