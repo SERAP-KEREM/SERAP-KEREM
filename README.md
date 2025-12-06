@@ -37,6 +37,17 @@ I started my journey as a **Computer Engineering Intern**, focusing on game mech
   </a>
 </p>
 
+<h2 align="center">🎨🧩 ColorBlockJam</h2>
+<p align="center">
+  <img src="https://github.com/SERAP-KEREM/SERAP-KEREM/blob/main/Images/Color%20Block%20Jam.png" alt="ColorBlockJam" width="420" loading="lazy" />
+</p>
+<p align="center">
+  <b>Genre:</b> Puzzle / Grid-Based &nbsp;|&nbsp; <b>Engine:</b> Unity &nbsp;|&nbsp; <b>Language:</b> C#
+</p>
+<p><b>Summary:</b> Grid-based color alignment puzzle with dissolve exits, directional logic, and handcrafted shaders.</p>
+<p><b>Tech:</b> Unity • C# • DOTween • TriInspector • URP Shader • Custom Dissolve Shader • Object Pooling</p>
+<p><a href="https://github.com/SERAP-KEREM/ColorBlockJam" target="_blank" rel="noopener noreferrer">GitHub</a></p>
+
 
 <h2 align="center">🧵 Thread Roller</h2>
 <p align="center">
