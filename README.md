@@ -46,9 +46,7 @@ I started my journey as a **Computer Engineering Intern**, focusing on game mech
 </p>
 <p><b>Summary:</b> Grid-based color alignment puzzle with dissolve exits, directional logic, and handcrafted shaders.</p>
 <p><b>Tech:</b> Unity • C# • DOTween • TriInspector • URP Shader • Custom Dissolve Shader • Object Pooling</p>
-<p><a href="https://github.com/SERAP-KEREM/ColorBlockJam" target="_blank" rel="noopener noreferrer">GitHub</a></p>
-
-
+<p><a href="https://serap-kerem.github.io/webpages/portfolio.html#color-block-jam" target="_blank" rel="noopener noreferrer">Portfolio</a> &nbsp;|&nbsp; <a href="https://github.com/SERAP-KEREM/ColorBlockJam" target="_blank" rel="noopener noreferrer">GitHub</a></p>
 <h2 align="center">🧵 Thread Roller</h2>
 <p align="center">
   <img src="https://raw.githubusercontent.com/SERAP-KEREM/SERAP-KEREM/refs/heads/main/Images/Thread%20Roller.png" alt="Thread Roller" width="420" loading="lazy" />
@@ -72,6 +70,18 @@ I started my journey as a **Computer Engineering Intern**, focusing on game mech
 <p><b>Summary:</b> Tactile stitching with grid painting, rope spline, and holder flow.</p>
 <p><b>Tech:</b> Unity • C# • DOTween • ScriptableObject • TriInspector • Texture2D</p>
 <p><a href="https://apps.apple.com/us/app/stich-n-loop/id6748954594" target="_blank" rel="noopener noreferrer">App Store</a></p>
+
+<h2 align="center">🎯➡️ Arrows</h2>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SERAP-KEREM/SERAP-KEREM/refs/heads/main/Images/Arrows.png" alt="Arrows" width="420" loading="lazy" />
+</p>
+<p align="center">
+  <b>Genre:</b> Puzzle / Line-Based &nbsp;|&nbsp; <b>Engine:</b> Unity (URP) &nbsp;|&nbsp; <b>Language:</b> C#
+</p>
+<p><b>Summary:</b> A line-based puzzle game built using Unity’s Line Renderer system. Simple to build, yet engaging and satisfying to play, with a clean and readable structure.</p>
+<p><b>Tech:</b> Unity • C# • Line Renderer • DOTween • URP • TextMeshPro • TriInspector • SerapKeremGameKit</p>
+<p><a href="https://serap-kerem.github.io/webpages/portfolio.html#arrows" target="_blank" rel="noopener noreferrer">Portfolio</a> &nbsp;|&nbsp; <a href="https://github.com/SERAP-KEREM/Arrows" target="_blank" rel="noopener noreferrer">GitHub</a></p>
+
 
 <h2 align="center">🔫 Third-Person Shooter Multiplayer</h2>
 <p align="center">
