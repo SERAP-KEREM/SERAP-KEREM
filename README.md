@@ -21,7 +21,16 @@ I started my journey as a **Computer Engineering Intern**, focusing on game mech
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
+<p align="center">
+  <a href="https://github.com/sponsors/SERAP-KEREM" target="_blank">
+    <img src="https://img.shields.io/badge/Sponsor_Me-💖-ff69b4?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="Sponsor Serap Kerem" />
+  </a>
+</p>
+<p align="center">
+  <i>If you find my open-source tools helpful or enjoy my puzzle games, consider supporting my journey! 🚀🎮</i>
+</p>
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <h2 left="center">PROJECTS</h2>
 
